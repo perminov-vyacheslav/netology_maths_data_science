@@ -1,1 +1,1 @@
-# netology_maths_data_science
+Итоговый проект по курсу «Математика для Data Science»
